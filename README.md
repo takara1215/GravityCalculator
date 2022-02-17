@@ -52,5 +52,5 @@ public class GravityCalculator {
 
 *Output of this code*
 
-![image](https://user-images.githubusercontent.com/85555680/154259684-2b623a18-09bb-41fa-a812-cec27dd7e8b6.png)
+![image](https://github.com/takara1215/GravityCalculator/blob/12fd866b160d5e34b452965ad93d1c2b7a2aefa4/Screenshot%202022-02-17%20140156.png)
 
