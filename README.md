@@ -26,7 +26,7 @@ class GravityCalculator {
 
 *Output of this code* 
 
-![image](https://user-images.githubusercontent.com/85555680/154259798-3c945d09-2540-4a22-9cf1-3ddc57a13a3d.png)
+![image](https://github.com/takara1215/GravityCalculator/blob/492dbd7dcf8acd7d356dc6d34f6b300292619412/Screenshot%202022-02-17%20140106.png)
 
 
 **Modified Code**
